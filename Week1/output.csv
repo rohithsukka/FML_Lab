@@ -1,0 +1,12 @@
+Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,Output,Feedback
+Female,Single,Student,No Income,Post Graduate,4,Yes,Positive
+Female,Single,Student,Below Rs.10000,Graduate,3,Yes,Positive
+Male,Single,Student,Below Rs.10000,Post Graduate,3,Yes,Negative 
+Female,Single,Student,No Income,Graduate,6,Yes,Positive
+Male,Single,Student,Below Rs.10000,Post Graduate,4,Yes,Positive
+Female,Married,Employee,More than 50000,Post Graduate,2,Yes,Positive
+Male,Single,Student,No Income,Graduate,3,Yes,Positive
+Female,Single,Student,No Income,Post Graduate,3,Yes,Positive
+Female,Single,Student,No Income,Post Graduate,2,Yes,Positive
+Female,Single,Student,No Income,Post Graduate,4,Yes,Positive
+Female,Single,Student,No Income,Post Graduate,5,Yes,Positive
